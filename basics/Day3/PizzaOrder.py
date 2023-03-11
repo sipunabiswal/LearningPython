@@ -26,9 +26,9 @@ elif size =="L":
 #if add pepperoni
 
 if add_pepperoni=="Y" and size=="S":
-    base_price=base_price+2
+    base_price+=2
 else:
-    base_price=base_price+3
+    base_price+=3
 
 #Eztra Cheese
 if extra_cheese=="Y":
