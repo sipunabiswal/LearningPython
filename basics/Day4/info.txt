@@ -1,0 +1,19 @@
+Randomization: Randomness
+pseudo random number generator:
+
+
+Python uses: Mersenne Twister 
+
+
+Python daataStructure
+List:
+list=[items, items1.... itemN]
+
+accessing a value in list: there are two ways can be accessed 
+1.+ve indexing
+2.-ve indexing
+
++ve indexing: the traversr of element will start from the begining of list.
+ex. print(list[1])= item1
+-ve indexing: the traversing will start from end of the list.
+ex. print(list[-1])= itemN
